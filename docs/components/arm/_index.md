@@ -11,7 +11,7 @@ icon: "/components/img/components/arm.svg"
 ---
 
 A robotic arm is a serial chain of joints and links, with a fixed end and an end effector end.
-Joints may rotate, translate, or both, while a link is a rigid connector between joints.
+Joints may rotate, translate, or both, while a link is a rigid connector between two joints.
 
 In simple terms, an *arm* has two ends: one fixed in place, and one with a device you can position.
 
