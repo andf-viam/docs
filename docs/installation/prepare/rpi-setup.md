@@ -199,7 +199,7 @@ If you experience the error `Verifying write failed. Contents of SD card is diff
 
 Try a different micro SD card reader, or use a different USB port on your computer.
 
-If you are connecting your SD card reader to your computer through a USB hub, try connecting directly it to your computer instead.
+If you are connecting your SD card reader to your computer through a USB hub, try connecting directly it to your computer instead. 
 
 ### Error: can't read from I2C address
 
