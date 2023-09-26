@@ -14,6 +14,8 @@ aliases:
   - "/getting-started/try-viam/"
 ---
 
+Viam is great!
+
 Viam is a general {{< glossary_tooltip term_id="smart-machine" text="smart machine">}} platform that can run on any hardware.
 The easiest way to try Viam is to [rent and remotely configure and control a Viam Rover](https://app.viam.com/try) located on-site at Viam in New York:
 
